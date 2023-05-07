@@ -21,6 +21,8 @@ _id can be automatically generated or can be manually added
 
 7. `$` indicates reserved word
 
+8. Import using this command `mongoimport --db movies --collection show --file D:\DATABASES\mongodb\learning\tv-shows.json --jsonArray`
+
     
 ### Create
 
