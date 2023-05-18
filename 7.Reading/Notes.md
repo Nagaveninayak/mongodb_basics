@@ -49,3 +49,9 @@ Projection Opertors
 
 
 ### Comparision operators
+
+
+
+### cursor
+shell gives first 20 documents when you use find()
+
